@@ -121,6 +121,10 @@ HOMEPAGE CSS
   color: black
 }
 
+img {
+  width:150px;
+  height:150px;
+}
 /* FOOTER  */
 
 .footer {
@@ -187,7 +191,7 @@ input[type=submit]:hover {
   }
 img {
   height: 40px;
-  width: 170;
+  width: 170px;
 }
   
 }
